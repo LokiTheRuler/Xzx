@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Updater, MessageHandler, Filters, CallbackContext
 
-TOKEN = "YOUR_BOT_TOKEN"  # Replace with your token
+TOKEN = "8340967995:AAEKWqKZ-iE8ulzRbdHBJHoWcyeYi2MLgPI"  # Replace with your token
 MAX_REACTIONS = 5  # Max reactions per post
 
 # Track reactions (in-memory storage)
